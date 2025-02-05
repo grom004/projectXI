@@ -20,6 +20,7 @@
 3. Активировать виртуальную среду: `source venv/bin/activate`
 
 4. Установка необходимых библиотек:
+     
       - `pip3 install requests`
       - `pip3 install beautifulsoup4`
         
@@ -37,3 +38,20 @@ Main Functions:
 - Analyzes logs to find suspicious SQL queries;
 - Scans HTML pages to extract links;
 - Runs "White-box" testing, checking for multiple vulnerabilities at once.
+
+Start the program:
+
+1. Go to the project directory: `cd /...`
+
+2. Create a virtual environment: `python3 -m venv venv`
+
+3. Activate the virtual environment: `source venv/bin/activate`
+
+4. Install the necessary libraries:
+
+    - `pip3 install requests`
+    - `pip3 install beautifulsoup4`
+
+5. Run the code: `python3 scanner.py`
+
+
