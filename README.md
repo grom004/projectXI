@@ -11,6 +11,20 @@
 - Сканирование HTML-страницы для извлечения ссылок;
 - Проведение тестирования «белого ящика», проверяя сразу несколько уязвимостей.
 
+Запуск программы:
+
+1. Перейти в директорию проекта: `cd /...`
+  
+2. Создать виртуальную среду: `python3 -m venv venv`
+   
+3. Активировать виртуальную среду: `source venv/bin/activate`
+
+4. Установка необходимых библиотек:
+      - `pip3 install requests`
+      - `pip3 install beautifulsoup4`
+        
+5. Запуск кода: `python3 scanner.py`
+
 ---
 
 #### ⚠ Note! Using this program to attack third-party websites is illegal without the owner's permission.
