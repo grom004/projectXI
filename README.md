@@ -13,7 +13,7 @@
 
 Запуск программы:
 
-1. Перейти в директорию проекта: `cd /...`
+1. Перейти в директорию проекта: `cd /dir_name`
   
 2. Создать виртуальную среду: `python3 -m venv venv`
    
@@ -41,7 +41,7 @@ Main Functions:
 
 Start the program:
 
-1. Go to the project directory: `cd /...`
+1. Go to the project directory: `cd /dir_name`
 
 2. Create a virtual environment: `python3 -m venv venv`
 
