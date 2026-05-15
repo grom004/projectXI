@@ -1,6 +1,4 @@
-# projectXI
-
-# PentestKit — Полная документация
+# projectXI — Полная документация
 
 > Асинхронный модульный сканер веб-уязвимостей + веб-дашборд с историей сканов  
 > **Только для авторизованного тестирования**
@@ -822,7 +820,10 @@ HOST = "0.0.0.0"   # вместо "127.0.0.1"
 ```bash
 pip install aiohttp beautifulsoup4 rich lxml flask
 ```
-# PentestKit — Full Documentation
+
+---
+
+# projectXI — Полная документация
 
 > Async modular web vulnerability scanner + web dashboard with scan history  
 > **For authorised testing only**
