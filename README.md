@@ -823,7 +823,7 @@ pip install aiohttp beautifulsoup4 rich lxml flask
 
 ---
 
-# projectXI — Полная документация
+# projectXI — Full Documentation
 
 > Async modular web vulnerability scanner + web dashboard with scan history  
 > **For authorised testing only**
